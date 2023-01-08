@@ -1,4 +1,4 @@
-[![GitHub followers](https://img.shields.io/github/followers/rykersun.svg?style=social&label=Followers)](https://github.com/rykersun?tab=followers)
+<img src="https://profile-counter.glitch.me/rykersun/count.svg">
 
 
 [![](https://raw.githubusercontent.com/rykersun/rykersun/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)
