@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E7%80%8F%E8%A6%BD%E4%BA%BA%E6%AC%A1)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub+Profile.)](https://git.io/typing-svg)  
 <img src="https://profile-counter.glitch.me/rykersun/count.svg">
 
 
