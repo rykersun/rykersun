@@ -1,6 +1,6 @@
+<!--
 <img align="center" src="https://github.com/rykersun/rykersun/blob/master/src/trust%20me.gif" />
-
-
+-->
 [![](https://raw.githubusercontent.com/rykersun/rykersun/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)
 [![](https://raw.githubusercontent.com/rykersun/rykersun/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only) [![](https://raw.githubusercontent.com/rykersun/rykersun/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)
 [![](https://raw.githubusercontent.com/rykersun/rykersun/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only) [![](https://raw.githubusercontent.com/rykersun/rykersun/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)
