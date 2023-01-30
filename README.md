@@ -1,7 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub+Profile.)](https://git.io/typing-svg)  
+<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+To+My+GitHub+Profile.)](https://git.io/typing-svg)
 <img src="https://profile-counter.glitch.me/rykersun/count.svg">
+-->
 
 
+<!--
 [![](https://raw.githubusercontent.com/rykersun/rykersun/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)
 [![](https://raw.githubusercontent.com/rykersun/rykersun/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only) [![](https://raw.githubusercontent.com/rykersun/rykersun/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)
 [![](https://raw.githubusercontent.com/rykersun/rykersun/master/profile-summary-card-output/nord_bright/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only) [![](https://raw.githubusercontent.com/rykersun/rykersun/master/profile-summary-card-output/nord_bright/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-light-mode-only)
@@ -10,6 +13,7 @@
 [![](https://raw.githubusercontent.com/rykersun/rykersun/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only)
 [![](https://raw.githubusercontent.com/rykersun/rykersun/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only) [![](https://raw.githubusercontent.com/rykersun/rykersun/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only)
 [![](https://raw.githubusercontent.com/rykersun/rykersun/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only) [![](https://raw.githubusercontent.com/rykersun/rykersun/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards#gh-dark-mode-only)
+-->
 
 
 <!--
