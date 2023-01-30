@@ -26,9 +26,9 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/rykersun/rykersun/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/rykersun/rykersun/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
-<img align="center" src="https://github.com/rykersun/rykersun/blob/master/src/trust%20me.gif" />
+<!-- <img align="center" src="https://github.com/rykersun/rykersun/blob/master/src/trust%20me.gif" /> -->
 
-
+<!--
 ---
 
 
@@ -55,3 +55,4 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
+-->
