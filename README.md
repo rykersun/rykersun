@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Taiwan
 * ✉️  You can contact me at [rykersun2002@gmail.com](mailto:rykersun2002@gmail.com)
 * 🧠  I'm learning Python, Three.js
-* 🤝  I'm open to collaborating on Helix Editor
+* 🤝  I'm open to collaborating on [Helix Editor](https://github.com/helix-editor/helix)
 
 <a href="https://www.github.com/rykersun" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rykersun?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
